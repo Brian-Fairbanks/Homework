@@ -48,14 +48,11 @@ You are required to submit the following for review:
 
 ## Completed
 
-* Much of the css merged when elements had the same formatting
-* reordered CSS, including all header fields nearby near the top of the page
+* Much of the CSS merged when elements had the same formatting
+* Reordered CSS, including all header fields nearby near the top of the page
 * Added id of the same name to class="search-engine-optimization" so that the anchor actually works
-* enclosed anchors at the top of the page in a new Id "anchors", and set it to float at 45% to the right, so it will not push underneath the header on smaller windows
-* added alt text to each image (note, this is alt text, not title text, so it will not popup in ballon text when hovering over.)
-* added a more descriptive title text to in the header.
-* changed the footer h2 to an h4 to follow sequential order.  adjusted this in CSS to refelct changes.
-
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+* Enclosed anchors at the top of the page in a new Id "anchors", and set it to float at 45% to the right, so it will not push underneath the header on smaller windows
+* Added alt text to each image (note, this is alt text, not title text, so it will not popup in ballon text when hovering over.)
+* Added a more descriptive title text to in the header.
+* Changed the footer h2 to an h4 to follow sequential order.  adjusted this in CSS to refelct changes.
+* Changed Div to more reasonable Semantics in accordance to - http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf
