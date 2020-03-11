@@ -44,3 +44,6 @@ THEN I find a concise, descriptive title
 * Added a more descriptive title text to in the header.
 * Changed the footer h2 to an h4 to follow sequential order.  adjusted this in CSS to refelct changes.
 * Changed Div to more reasonable Semantics in accordance to - http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf
+
+## Screenshot of File
+![screenshot of website](https://raw.githubusercontent.com/Brian-Fairbanks/Homework/master/screenshot.PNG)
